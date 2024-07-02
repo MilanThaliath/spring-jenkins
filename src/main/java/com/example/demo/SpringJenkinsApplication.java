@@ -20,7 +20,7 @@ public class SpringJenkinsApplication {
 	public static void main(String[] args) {
 
 		log.info("Spring Project Executed.................");
-
+		log.info("New change");
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
 
